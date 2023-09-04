@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    background-color: orange;
+    width: 500px;
+    border-radius: 50px;
+}
+body{
+    background-color: orangered;
+}
+h3{
+    color: blue;
+    background-color: aqua;
+}
+button{
+    border-radius: 20px;
+    font-weight: bolder;
+    color: aquamarine;
+    background-color: black;
+    height: 50px;
+    width: 80px;
+}
